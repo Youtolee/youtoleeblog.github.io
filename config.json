@@ -2,6 +2,9 @@
     "title":"youtolee",
     "subTitle":"Blog description",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
-    "homeUrl":"https://youtolee.site/",
+    "GMEEK_VERSION":"last",
+    "startSite":"08/15/2024",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
+    "homeUrl":"https://youtolee.site/"
 }
