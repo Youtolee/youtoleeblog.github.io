@@ -1,12 +1,11 @@
 {
     "title":"youtolee",
-    "subTitle":"<p id='hitokoto'>:D 获取中...</p>",
-    "avatarUrl":"https://github.com/Youtolee/youtoleeblog.github.io/blob/main/favicon.svg",
-    "faviconUrl":"https://github.com/Youtolee/youtoleeblog.github.io/blob/main/favicon.svg",
+    "subTitle":"机械飞升",
+    "avatarUrl":"https://raw.githubusercontent.com/Youtolee/youtoleeblog.github.io/7c587ac3fbee38c2add42b1341ff1a946abc9fad/favicon.svg",
+    "faviconUrl":"https://raw.githubusercontent.com/Youtolee/youtoleeblog.github.io/7c587ac3fbee38c2add42b1341ff1a946abc9fad/favicon.svg",
     "GMEEK_VERSION":"last",
     "startSite":"08/15/2024",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
-    "script":"<script src='https://v1.hitokoto.cn/?encode=js&select=%23hitokoto' defer></script>",
     "homeUrl":"https://blog.youtolee.site"
 }
