@@ -7,30 +7,6 @@
     "startSite":"08/15/2024",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
-    "indexScript":"<script src='https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js'></script>
-                   <script src='https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js'></script>
-                     <!--End-->
-                     <script>
-                      fetch('https://v1.hitokoto.cn')
-                     .then(function (res){
-                         return res.json();
-
-    })
-
-    .then(function (data) {
-
-      var hitokoto = document.getElementById('hitokoto');
-
-      hitokoto.innerText = data.hitokoto; 
-
-    })
-
-    .catch(function (err) {
-
-      console.error(err);
-
-    })
-
-</script>",
+    "script":"<script src='https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>',
     "homeUrl":"https://blog.youtolee.site"
 }
